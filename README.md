@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Role-Based Access Control and Multi-Admin Approval Banner" width="100%">
+</p>
+
 # Awesome Role-Based Access Control & Multi-Admin Approval
 
 > A curated list of top Role-Based Access Control (RBAC) and Multi-Admin Approval platforms — both SaaS/Hosted commercial solutions and open-source alternatives for enforcing least-privilege access, separation of duties, and governed approval workflows.
